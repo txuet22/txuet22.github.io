@@ -1,0 +1,75 @@
+body{
+	background-color:rgb(20, 125, 160);
+	color:#555;
+	font-family:Arial, Helvatica, san-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:coral;
+	color:#fff;
+}
+
+#navbar{
+	background-color:#333;
+	color:#fff;
+}
+
+#navbar ul{
+	padding: 0;
+	list-style: none;
+
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size:18px
+	padding-right:15px;
+}
+
+.my-form{
+    font-size:18px;
+    text-align: center;
+}
+
+.my-form h1{
+	padding: 0cm;
+	color:yellow;
+	font-size:20px;
+	
+}
+
+.my-form p{
+	background-color:green;
+	margin-bottom:10px;
+	
+	
+}
+
+.my-form h2{
+	width:800px;
+	height:500px;
+	borders:1px solid:#000;
+	margin-top:30px;
+	position:relative;
+	background-image:url('../images/hello.png');
+	background-repeat: no-repeat;
+	background-position:100px 200px;
+	background-position: center top;
+
+
+
+}
