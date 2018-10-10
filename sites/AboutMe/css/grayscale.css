@@ -88,7 +88,7 @@
 
 .masthead {
   position: relative;
-  width: 100%;
+  width:auto;
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
@@ -165,6 +165,48 @@
 .btn-primary:active {
   background-color: #467370 !important;
 }
+
+body { 
+  width:auto;
+  height:auto;
+  background-color: antiquewhite;
+  
+
+}
+
+.box-1 {
+  background-position: 0 0;
+} 
+
+.containers{
+ border-radius:auto;
+
+}
+
+.containers h1{
+  text-align: center;
+  font-size:80px;
+  color:whitesmoke;
+  background-color: aquamarine;
+}
+
+.containers p {
+text-align: justify;
+font-family: 'Times New Roman', Times, serif;
+background-origin: padding-box;
+background-color:lightskyblue;
+}
+
+.img{
+  width:100%;
+  height:auto;
+  border-radius:100%;
+  align-content: center;
+
+
+}
+
+
 
 .about-section {
   padding-top: 10rem;
@@ -302,3 +344,4 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
