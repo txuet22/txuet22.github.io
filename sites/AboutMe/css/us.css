@@ -1,0 +1,47 @@
+body { 
+  width:auto;
+  height:auto;
+  background-color: antiquewhite;
+  
+
+}
+
+.box-1 {
+  background-position: 0 0;
+} 
+
+.containers{
+ border-radius:auto;
+
+}
+
+.containers h1{
+  text-align: center;
+  font-size:80px;
+  color:lightseagreen;
+  background-color:transparent;
+}
+
+.containers p {
+text-align:left;
+font-family: 'Times New Roman', Times, serif;
+background-origin: padding-box;
+background-color:transparent;
+font:100%;
+font-style: italic;
+text-emphasis-color:Yellow;
+font-size:200%;
+color:gold;
+
+
+}
+
+.img{
+  width:100%;
+  height:auto;
+  border-radius:100%;
+  align-content:center;
+  border-image-source:
+
+
+}
